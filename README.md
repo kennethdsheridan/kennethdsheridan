@@ -22,5 +22,6 @@ Links:
 
 - Resume PDF: https://kennethdsheridan.github.io/resume/resume.pdf ([web](https://kennethdsheridan.github.io/resume/))
 - Forgejo: https://forgejo.kennysheridan.io
+- Codeberg: https://codeberg.org/kennysheridan
 - GitHub: https://github.com/kennethdsheridan
 - LinkedIn: https://www.linkedin.com/in/kennethdashensheridan/
