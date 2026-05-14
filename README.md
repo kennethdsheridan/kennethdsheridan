@@ -20,8 +20,7 @@ Focus areas:
 
 Links:
 
-- Resume PDF: https://kennethdsheridan.github.io/resume/resume.pdf
-- Resume web: https://kennethdsheridan.github.io/resume/
+- Resume PDF: https://kennethdsheridan.github.io/resume/resume.pdf ([web](https://kennethdsheridan.github.io/resume/))
 - Forgejo: https://forgejo.kennysheridan.io
 - GitHub: https://github.com/kennethdsheridan
 - LinkedIn: https://www.linkedin.com/in/kennethdashensheridan/
