@@ -1,22 +1,24 @@
 # Kenny Sheridan
 
-Systems Engineering & Architecture for accelerated infrastructure, AI and machine learning systems, virtualization, hardware platforms, and open systems.
+I build software and design infrastructure systems that help founders, ML researchers, and customer engineering teams run GPU training and inference workloads on production infrastructure.
 
-After eight years as a Meteorologist in the U.S. Marine Corps, I moved into systems engineering for high-performance compute, accelerated infrastructure, and GPU-backed platforms. For the last 5 years, I have worked in startup environments where priorities move quickly and the expectation is to turn ideas into shipped systems without losing reliability or technical depth.
 
-I have experience across pre-seed and Series A companies, both before and after fundraising, including customer-specific products, internal platforms, and infrastructure automation that support revenue, delivery, and operational scale. I also have experience helping medium-sized technology companies scale into Fortune 500 operations, including ServiceNow during its 2017 growth phase.
+After eight years as a Meteorologist in the U.S. Marine Corps, I moved into systems engineering across bare metal, GPU platforms, cloud infrastructure, and research environments. For the last several years, I’ve worked in fast-moving startups turning ambiguous infrastructure and product requirements into shipped, reliable systems.
 
-I build open source and custom software that helps turn hardware fleets, GPU systems, virtualized environments, and edge devices into durable operational and commercial capability. My work spans control planes, host-level automation, Nix systems, virtualization, observability, hardware lifecycle tooling, systems integration, benchmarking, workload matching, and developer workflows.
 
-Focus areas:
+My work spans customer workload onboarding, distributed training, batch inference, ML pipeline observability, autoscaling infrastructure, utilization-based billing, and workload resiliency. I've written and deployed custom Kubernetes controllers, host agents, and control-plane integrations, and help adapt manifests, containers, serving stacks, model caches, telemetry, and deployment workflows so customer workloads run reliably across virtual machines, Kubernetes, and bare-metal GPU fleets.
 
-- Accelerated infrastructure, AI, and machine learning platforms
-- Virtualization, hardware monetization, fleet operations, and lifecycle automation
-- Customer-specific infrastructure products for fast-moving startup teams
-- Scaling infrastructure teams and platforms from startup through Fortune 500 operations
-- Bare metal, high performance computing, Kubernetes, and edge systems
-- Defense programs, FedRAMP and IL5 environments, and high-assurance delivery
-- Open source and custom software for infrastructure-scale systems
+
+I have hands-on production experience with NVIDIA Hopper/Blackwell and AMD Instinct environments, vLLM, SGLang, TensorRT-LLM, Triton, PyTorch, Candle, tch-rs, NCCL debugging, kernel and BIOS tuning, high-bandwidth data movement, and large-scale GPU performance engineering.
+
+
+My infrastructure work spans Kubernetes, Slurm on Kubernetes (SUNK), Software Defined Networking, AWS, GCP, DigitalOcean, co-located bare metal, Terraform/OpenTofu, Terragrunt, Argo CD, Cluster API, Kamaji, QEMU/KVM, Prometheus/Grafana, Weka, VAST, Ceph, Postgres, Google Cloud SQL, Rust, Go, and Nix/NixOS.
+
+
+Recent work includes multi-cluster observability for 12,000+ GPUs across 10+ providers and regions, customer workload onboarding for training and inference, hosted metrics, automated Slack alerting, Stripe-backed utilization billing, Cluster API-compatible infrastructure APIs, custom Kubernetes controllers, host-side agents, control-plane automation, and reproducible test/dev environments using Nix, Tilt, Kubernetes, and QEMU/KVM.
+
+
+I’m also an advocate for local inference, with hands-on experience with tools for M1/M2 Apple Silicon using Asahi Linux diagnostics, and exploring Apple Container orchestration with MLX and JACCL. 
 
 Links:
 
